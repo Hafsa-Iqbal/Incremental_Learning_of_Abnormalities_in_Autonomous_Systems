@@ -2,6 +2,8 @@
 
 ### Introduction
 
+![iNCREMENTALlEARNING](https://user-images.githubusercontent.com/56120865/118014488-934ebb00-b353-11eb-97c0-0788e938e943.png)
+
 This is the code for the incremental learning from the abnormalities in an unsupervised way.
 
 This work is presented in AVSS 2019 at Taipei, Taiwan
