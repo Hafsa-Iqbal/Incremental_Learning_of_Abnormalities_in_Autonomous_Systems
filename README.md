@@ -2,7 +2,7 @@
 
 ### Introduction
 
-![iNCREMENTALlEARNING](https://user-images.githubusercontent.com/56120865/118014488-934ebb00-b353-11eb-97c0-0788e938e943.png)
+![IncrementalLearningHassan](https://user-images.githubusercontent.com/56120865/118014714-cb55fe00-b353-11eb-9cac-2b8d03635ad6.JPG)
 
 This is the code for the incremental learning from the abnormalities in an unsupervised way.
 
